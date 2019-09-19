@@ -26,8 +26,8 @@ subtitle = ""
    tag = "*"
   
   [[content.filter_button]]
-   name = "Public"
-   tag = "Public"
+   name = "European Projects"
+   tag = "European"
   
   # [[content.filter_button]]
   #   name = "Other"
