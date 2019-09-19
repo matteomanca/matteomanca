@@ -1,6 +1,6 @@
 +++
 title = "BarcelonaNow: Empowering Citizens with Interactive Dashboards for Urban Data Exploration"
-date = "2018-10-25"
+date = "2018-04-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
