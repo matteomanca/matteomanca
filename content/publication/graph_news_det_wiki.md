@@ -1,6 +1,6 @@
 +++
 title = "Graph-based breaking news detection on Wikipedia."
-date = "2017-04-01"
+date = "2016"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
