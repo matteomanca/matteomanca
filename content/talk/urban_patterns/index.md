@@ -1,5 +1,5 @@
 ---
-title: Urban Patterns and Citizen Participation: Geographical Data Analysis of Decidim Barcelona.
+title: Urban Patterns and Citizen Participation Geographical Data Analysis of Decidim Barcelona.
 event: European Symposium Series on Societal Challenges in Computational Social Science
 event_url: 
 
