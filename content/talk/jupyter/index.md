@@ -1,7 +1,7 @@
 ---
 title: Tutorial on Data Analysis of Mobility Behaviour Data
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: Methods and Tools to analyse mobility data
+summary: Methods and Tools to analyse mobility data
 authors:
 - admin
 tags: []
