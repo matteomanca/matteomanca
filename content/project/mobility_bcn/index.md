@@ -1,6 +1,6 @@
 ---
-title: LPS BIGGER
-summary: LPS BIGGER is a project Co-funded by the Spanish National Strategic Consortium for Technical Research which aims at building the first environment for the development of Big Data applications.
+title: User Mobility Patterns in Barcelona
+summary: The main goal of the project was to study to what extent social media data can be exploited to infer mobility patterns about tourists and local citizens in the city of Barcelona. Precisely, we analysed Twitter and Flicker data geo-located in Barcelona, published during the year 2015.
 tags:
 - Public
 date: "2016-04-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-LPS BIGGER is a project Co-funded by the Spanish National Strategic Consortium for Technical Research which aims at building the first environment for the development of Big Data applications.
+The main goal of the project was to study to what extent social media data can be exploited to infer mobility patterns about tourists and local citizens in the city of Barcelona. Precisely, we analysed Twitter and Flicker data geo-located in Barcelona, published during the year 2015.
