@@ -1,6 +1,6 @@
 ---
 title: MoTiV
-summary: The MoTiV project addresses Value of Travel Time VTT from the perspective of a single individual with a unique combination of personality, preferences, needs and expectations, in contrast with the traditional viewpoint of the economic dimension (time and cost savings). MoTiV aims at achieving a broader and more interdisciplinary conceptualization and understanding of VTT by emphasizing its “behavioural” component.
+summary: The MoTiV project addresses Value of Travel Time VTT from the perspective of a single individual with a unique combination of personality, preferences, needs and expectations, in contrast with the traditional viewpoint of the economic dimension (time and cost savings). MoTiV aims at achieving a broader and more interdisciplinary conceptualization and understanding of VTT by emphasizing its behavioural component.
 tags:
 - European
 date: "2019-11-01T00:00:00Z"
