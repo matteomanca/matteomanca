@@ -46,7 +46,7 @@ social:
   icon_pack: fas
   link: "mailto:matteomanca@gmail.com"
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+- icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/matteo-manca-72712820/
 - icon: twitter
