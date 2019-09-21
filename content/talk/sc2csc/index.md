@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: UK
 
-summary: opportunities, challenges and open issues related to the use of new sources of data in Computational Social Science.
+summary: Opportunities, challenges and open issues related to the use of new sources of data in Computational Social Science.
 abstract: "I presented a case study of the use of social media data in computational social science (see paper *Using social media to characterize urban mobility patterns: State-of-the-art survey and case-study*), in order to highlight opportunities, challenges and open issues related to the use of new sources of data in this domain."
 
 # Talk start and end times.
