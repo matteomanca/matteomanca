@@ -1,5 +1,5 @@
 ---
-title: Gender inequalities in political participation: a study of the 2017 UK general elections on Twitter.
+title: Gender inequalities in political participation a study of the 2017 UK general elections on Twitter.
 event: European Symposium Series on Societal Challenges in Computational Social Science
 event_url: 
 
