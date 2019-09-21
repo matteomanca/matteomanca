@@ -3,7 +3,7 @@ title: LPS BIGGER
 summary: LPS BIGGER is a project Co-funded by the Spanish National Strategic Consortium for Technical Research which aims at building the first environment for the development of Big Data applications.
 tags:
 - Public
-date: "2016-04-27T00:00:00Z"
+date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
