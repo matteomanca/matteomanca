@@ -1,5 +1,5 @@
 ---
-title: From Social Science to Computational Social Science: Is Web Data the Key to a More Effective Analysis?
+title: From Social Science to Computational Social Science, Is Web Data the Key to a More Effective Analysis?
 event: Addressing Big Societal Challenges with Digital Behavioral Data workshop
 event_url: 
 
