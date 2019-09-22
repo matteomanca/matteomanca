@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   * Leading of Work Packages in European Projects.
   * Participation in Grant proposals (H2020, Internal, etc.).
   * Principal Data Scientist in multiple private and public projects.
-  * Applying data mining and computation methods to digital trace data.
+  * Applying data mining and computational methods to digital trace data.
   * Implementing predictive models.
 
   """
@@ -58,7 +58,6 @@ date_format = "Jan 2006"
   date_start = "2015-09-14"
   date_end = "2018-01-29"
   description = """
-  Responsibilities include:
   
   * Participation in European Projects.
   * Applying data mining and computation methods to digital trace data.
@@ -73,7 +72,6 @@ date_format = "Jan 2006"
   date_start = "2010-11-29"
   date_end = "2015-09-01"
   description = """
-  Responsibilities include:
   
   * Design and development of clinical tools, web applications and iOS applications in the Rare Disease area.
   * Management and maintenance of several client systems and linux servers (Xen virtualization, CentOS, Apache2, mysql, etc.
@@ -88,7 +86,6 @@ date_format = "Jan 2006"
   date_start = "2014-06-01"
   date_end = "2014-11-01"
   description = """
-  Responsibilities include:
   
   * Development of a C++ multi-platform framework (based on DCMTK3.6.1 library) for the extraction and processing of DICOM image data.
   * Data scientist activities such as data preprocessing, preparation, re-formatting and Feature extraction of medical imaging data.
