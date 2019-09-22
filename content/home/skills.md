@@ -15,7 +15,7 @@ subtitle = ""
 
 
 [design.background]  
-  Background color.
+#  Background color.
   color = "navy"
   
 +++
