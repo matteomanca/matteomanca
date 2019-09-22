@@ -25,11 +25,6 @@ interests:
 - Recommender systems
 - Computational Social Science
 
-Programming Skills:
-- Python (libraries scikit-learn, Pandas, Numpy, etc) 
-- R, SAS, SQL (mysql, Postgres, SQLite) bash scripting 
-- Knowledge of Matlab, C, C++, Objective-C, Java, Javascript (JQuery), PHP, HTML and CSS LaTeX
-
 education:
   courses:
   - course: PhD in Computer Science
@@ -82,3 +77,8 @@ user_groups:
 Matteo Manca is currently Research Data Scientist at Eurecat, in the Data Science and Big Data Analytics research group. He mainly focuses on the analysis of digital trace data and in the application of data mining and computation methods in order to study social phenomena and to improve customers business.
 
 In 2014 he obtained his PhD in computer science from the University of Cagliari with a thesis focused on the study and implementation of recommendation approaches for the social media domain. He has worked as intern in CureMetrix (working remotely) , San Diego (CA) – USA and in the Web mining group at Yahoo! Researcher Barcelona.
+
+### Programming Skills:
+- Python (libraries scikit-learn, Pandas, Numpy, etc) 
+- R, SAS, SQL (mysql, Postgres, SQLite) bash scripting 
+- Knowledge of Matlab, C, C++, Objective-C, Java, Javascript (JQuery), PHP, HTML and CSS LaTeX
