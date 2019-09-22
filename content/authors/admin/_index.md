@@ -25,12 +25,6 @@ interests:
 - Recommender systems
 - Computational Social Science
 
-skills:
-- Python (libraries scikit-learn, Pandas, Numpy, etc) 
-- R, SAS, SQL (mysql, Postgres, SQLite) bash scripting 
-- Knowledge of Matlab, C, C++, Objective-C, Java, Javascript (JQuery), PHP, HTML and CSS LaTeX
-
-
 education:
   courses:
   - course: PhD in Computer Science
