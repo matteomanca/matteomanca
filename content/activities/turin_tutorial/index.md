@@ -1,62 +1,27 @@
 ---
-title: Data Sources and Techniques to Mine Human Mobility Patterns. 
-subtitle: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
-summary: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
+title: Data Sources and Techniques to Mine Human Mobility Patterns.
+subtitle: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).
+summary: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA). Turin, Italy.
 authors:
 - admin
 tags: []
 categories: []
-date: "2018-10-01T15:00:00Z"
+date: "2018-10-01T00:00:00Z"
+lastMod: ""
 featured: false
 draft: false
 
-location: Turin
-address:
-  street: 
-  city: Turin
-  region: 
-  postcode: ''
-  country: Italy
-
-# Schedule page publish date (NOT talk date).
-publishDate: ""
-
-authors: [Ludovico Boratto, Carmen Herrero, Andreas Kaltenbrunner, Matteo Manca, Giovanni Stilo]
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 
-  focal_point: Right
-
-links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+  caption: ""
+  focal_point: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
-
-# Enable math on this page?
-math: true
+projects: []
 ---
-
