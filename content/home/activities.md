@@ -29,7 +29,5 @@ subtitle = ""
 
 - **Guest editor** of the Special issue on [“Behavioral-Data Mining in Information Systems and the Big Data Era”](http://sites.unica.it/bdm-isf/guest-editors/)
 
-- [**Teaching**]**Tecnicas para el analisis de datos[SP]** 
+- [**Teaching**]**Tecnicas para el analisis de datos[SP]**  
 CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA. Barcelona, 2017-11-02.
-
-
