@@ -1,27 +1,27 @@
 ---
-title: Tutorial - Data Sources and Techniques to Mine Human Mobility Patterns. 
-subtitle: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
-summary: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
+title: PC member of the of RecSys2019 (International Conference on Social Informatics).
+subtitle: PC member
+summary: PC member
 authors:
 - admin
 tags: []
 categories: []
-date: "2018-10-01T15:00:00Z"
+date: ""
 featured: false
 draft: false
 
-location: Turin
+location: 
 address:
   street: 
-  city: Turin
+  city: 
   region: 
   postcode: ''
-  country: Italy
+  country: 
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
 
-authors: [Ludovico Boratto, Carmen Herrero, Andreas Kaltenbrunner, Matteo Manca, Giovanni Stilo]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
