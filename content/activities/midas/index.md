@@ -1,5 +1,5 @@
 ---
-title: PC member of the of RecSys2019 (ACM Conference on Recommender Systems).
+title: PC member of the of   MIDAS-2019, MIDAS-2018, MIDAS-2017 (Workshop on MIning DAta for financial applications)
 subtitle: PC member
 summary: PC member
 authors:

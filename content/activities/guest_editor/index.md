@@ -1,7 +1,7 @@
 ---
-title: PC member of the of RecSys2019 (ACM Conference on Recommender Systems).
-subtitle: PC member
-summary: PC member
+title: Guest editor of the Special issue on “Behavioral-Data Mining in Information Systems and the Big Data Era”
+subtitle: Guest editor
+summary: Guest editor
 authors:
 - admin
 tags: []
