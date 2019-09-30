@@ -1,7 +1,7 @@
 ---
-title: [PC member] PC member of the of SocInfo2019 (International Conference on Social Informatics).
-subtitle: 
-summary: 
+title: PC member of the of SocInfo2019 (International Conference on Social Informatics).
+subtitle: PC member
+summary: PC member
 authors:
 - admin
 tags: []
