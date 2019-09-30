@@ -1,7 +1,14 @@
 ---
 title: Data Sources and Techniques to Mine Human Mobility Patterns. 
-event: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
-event_url: 
+subtitle: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
+summary: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
+authors:
+- admin
+tags: []
+categories: []
+date: "2018-10-01T15:00:00Z"
+featured: false
+draft: false
 
 location: Turin
 address:
@@ -11,17 +18,8 @@ address:
   postcode: ''
   country: Italy
 
-summary: 
-abstract: "Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA)."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-10-01T15:00:00Z"
-date_end: "2018-10-01T15:00:00Z"
-all_day: false
-
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 authors: [Ludovico Boratto, Carmen Herrero, Andreas Kaltenbrunner, Matteo Manca, Giovanni Stilo]
 tags: []
