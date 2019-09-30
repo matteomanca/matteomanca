@@ -12,7 +12,7 @@ address:
   country: Italy
 
 summary: 
-abstract: "we analyze a dataset of 4.5 million tweets related to the UK general elections of 2017 to investigate the gender composition of the different (political) communities, and to investigate gender inequalities in relation to online polarization."
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -40,7 +40,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.slideshare.net/MatteoManca/gender-inequalities-in-political-participation-a-study-of-the-2017-uk-general-elections-on-twitter?ref=https://mattemanca.wordpress.com/2017/11/20/european-symposium-series-on-societal-challenges-in-computational-social-science/"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
