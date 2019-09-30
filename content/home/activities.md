@@ -30,4 +30,25 @@ subtitle = ""
 - **Guest editor** of the Special issue on [“Behavioral-Data Mining in Information Systems and the Big Data Era”](http://sites.unica.it/bdm-isf/guest-editors/)
 
 - [**Teaching**]**Tecnicas para el analisis de datos[SP]**  
-CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA. Barcelona, 2017-11-02.
+###### CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.  
+Barcelona, 2017-11-02
+
+- [**Teaching**]**Exploratory Data Analysis using R[SP]**  
+###### BIG DATA MODULE, PROYECTO DE FORMACION DIGITAL AND GREEN SKILLS POR UNA ECONOMIA SOSTENIBLE.  
+Barcelona, 2017-03-08 - 2017-03-16
+
+- [**Teaching**]**Data Pre-processing and cleaning[SP]**  
+###### BIG DATA MODULE, PROYECTO DE FORMACION DIGITAL AND GREEN SKILLS POR UNA ECONOMIA SOSTENIBLE.  
+Barcelona, 2017-03-20 - 2017-03-30
+
+- [**Teaching**]**Exploratory Data Analysis using R[EN]**  
+###### CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.  
+Barcelona, 2017-02-15 - 2017-02-22
+
+- [**Teaching**]**Data pre-processing and cleaning[EN]**  
+###### CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.    
+Barcelona, 2017-03-15 - 2017-03-22
+
+- [**Teaching**]**Introduction to data pre-processing and cleaning using R[EN]**  
+###### BIG DATA MODULE, MASTER IN DIGITAL SOLUTIONS DEVELOPMENT AT BUSINESS TECHNOLOGY SCHOOL.  
+Barcelona, 2016-02-22 - 2016-02-29
