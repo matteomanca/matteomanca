@@ -1,46 +1,69 @@
 +++
-# A Skills section created with the Featurette widget.
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+# A Recent and Upcoming Talks section created with the Pages widget.
+# This section displays recent talks from `content/talk/`.
+
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Activities"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-
-[design.background]  
-#  Background color.
-#  color = "navy"
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "talk"
   
-+++
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-- **Tutorial** at International Conference. L. Boratto, C. Herrero, A. Kaltenbrunner, M. Manca, G. Stilo. Data Sources and Techniques to Mine Human Mobility Patterns. The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA). [Turin, Italy – 2018/10/01 – 04].
-- **PC member** of the of [SocInfo2019](https://socinfo2019.qcri.org) (International Conference on Social Informatics)
-- **PC member** of the of [RecSys2019](https://recsys.acm.org/recsys19/) (ACM Conference on Recommender Systems) 
-- **PC member** of the of [ICWSM-18](https://www.icwsm.org/2018/index.php), [ICWSM-17](https://www.icwsm.org/2017/index.php), [ICWSM-16](https://www.icwsm.org/2016/index.php)(International AAAI Conference on Web and Social Media)
-- **PC member** of the of [MIDAS-2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=89822&copyownerid=88467), [MIDAS-2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=76127&copyownerid=88467), MIDAS-2017 (Workshop on MIning DAta for financial applicationS)
-- **Guest editor** of the Special issue on [“Behavioral-Data Mining in Information Systems and the Big Data Era”](http://sites.unica.it/bdm-isf/guest-editors/)
-- [**Teaching**]**Tecnicas para el analisis de datos[SP]**  
-CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.  
-Barcelona, 2017-11-02
-- [**Teaching**]**Exploratory Data Analysis using R[SP]**  
-BIG DATA MODULE, PROYECTO DE FORMACION DIGITAL AND GREEN SKILLS POR UNA ECONOMIA SOSTENIBLE.  
-Barcelona, 2017-03-08 - 2017-03-16
-- [**Teaching**]**Data Pre-processing and cleaning[SP]**  
-BIG DATA MODULE, PROYECTO DE FORMACION DIGITAL AND GREEN SKILLS POR UNA ECONOMIA SOSTENIBLE.  
-Barcelona, 2017-03-20 - 2017-03-30
-- [**Teaching**]**Exploratory Data Analysis using R[EN]**  
-CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.  
-Barcelona, 2017-02-15 - 2017-02-22
-- [**Teaching**]**Data pre-processing and cleaning[EN]**  
-CURSO DE NUEVOS METODOS DE VISUALIZACION DE LA INFORMACION BIG DATA.    
-Barcelona, 2017-03-15 - 2017-03-22
-- [**Teaching**]**Introduction to data pre-processing and cleaning using R[EN]**  
-BIG DATA MODULE, MASTER IN DIGITAL SOLUTIONS DEVELOPMENT AT BUSINESS TECHNOLOGY SCHOOL.  
-Barcelona, 2016-02-22 - 2016-02-29
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
+
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+    
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
