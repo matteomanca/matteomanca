@@ -1,5 +1,5 @@
 ---
-title: L. Boratto, C. Herrero, A. Kaltenbrunner, M. Manca, G. Stilo. Data Sources and Techniques to Mine Human Mobility Patterns. 
+title: Data Sources and Techniques to Mine Human Mobility Patterns. 
 event: Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA).   
 event_url: 
 
@@ -12,7 +12,7 @@ address:
   country: Italy
 
 summary: 
-abstract: ""
+abstract: "Tutorial at The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: [Ludovico Boratto, Carmen Herrero, Andreas Kaltenbrunner, Matteo Manca, Giovanni Stilo]
 tags: []
 
 # Is this a featured talk? (true/false)
