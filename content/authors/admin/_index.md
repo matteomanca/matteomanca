@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data scientistt
+role: Data scientist
 
 # Organizations/Affiliations
 organizations:
